@@ -31,4 +31,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: yes
-  base-directory: angular-cicd-demo/dist/angular-cicd-demo 
+  base-directory: angular-cicd-demo/dist/angular-cicd-demo

@@ -32,3 +32,4 @@ artifacts:
     - "**/*"
   discard-paths: yes
   base-directory: angular-cicd-demo/dist/angular-cicd-demo
+ 
